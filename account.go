@@ -1,4 +1,4 @@
-package ZohoContact
+package ZohoAccount
 
 import "fmt"
 
