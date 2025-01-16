@@ -4,24 +4,24 @@ import "fmt"
 
 //Cria conta no Zoho CRM
 func Create() any{
-	fmt.Println("Create Account Api...")
-	return "Create Account Api..."
+	fmt.Println("Create Contact Api...")
+	return "Create Contact Api..."
 }
 
 //Consulta conta no Zoho CRM
 func Read() any{
-	fmt.Println("Read Account Api...")
-	return "Read Account Api..."
+	fmt.Println("Read Contact Api...")
+	return "Read Contact Api..."
 }
 
 //Atualiza conta no Zoho CRM
 func Update() any{
-	fmt.Println("Update Account Api...")
-	return "Update Account Api..."
+	fmt.Println("Update Contact Api...")
+	return "Update Contact Api..."
 }
 
 //Exclui conta no Zoho CRM
 func Delete() any{
-	fmt.Println("Delete Account Api...")
-	return "Delete Account Api..."
+	fmt.Println("Delete Contact Api...")
+	return "Delete Contact Api..."
 }
