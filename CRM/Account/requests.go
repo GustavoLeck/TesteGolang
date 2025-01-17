@@ -25,3 +25,9 @@ func Delete() any {
 	fmt.Println("Delete Account Api...")
 	return "Delete Account Api..."
 }
+
+//Pesquisa conta no Zoho CRM
+func Seacr() any {
+	fmt.Println("Search Account Api...")
+	return "Search Account Api..."
+}
